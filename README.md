@@ -1,4 +1,7 @@
-[README.md](https://github.com/user-attachments/files/27133402/README.md)
+<p align="center">
+  <img src="Studi Buddy Logo.png" width="200">
+</p>
+
 # 🎓 Studi Buddy FHNW
 
 > Ein intelligenter Studienberater-Chatbot für den BSc Business Artificial Intelligence (BAI) an der FHNW, entwickelt im Rahmen des Moduls *Dialogsysteme & Sprachverarbeitung* (FS 2026).
