@@ -8,7 +8,7 @@ Für den Studi Buddy wurden zwei User Personas definiert: eine externe Person (S
 
 ## Persona 1: Alex Brunner (Externer Interessent)
 
-*[Bild hier einfügen]*
+
 
 ### Name & Background
 
