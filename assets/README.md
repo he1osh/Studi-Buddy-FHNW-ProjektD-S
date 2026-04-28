@@ -2,7 +2,7 @@
 
 Dieser Ordner enthält visuelle Artefakte des Projekts.
 
-## Benötigte Dateien
+## enthaltene Dateien
 
 - [ ] Bild User Persona Alex (KI-generiert)
 - [ ] Bild User Persona Sara (KI-generiert)
