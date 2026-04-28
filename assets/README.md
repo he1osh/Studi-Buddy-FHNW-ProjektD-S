@@ -7,5 +7,5 @@ Dieser Ordner enthält visuelle Artefakte des Projekts.
 - [ ] Bild User Persona Alex (KI-generiert)
 - [ ] Bild User Persona Sara (KI-generiert)
 - [ ] Bot-Logo Studi Buddy
-- [ ] Screenshots der Voiceflow-Tests (9 Testfälle)
+- [ ] Screenshots der Voiceflow-Tests 
 - [ ] Screenshot Voiceflow Analytics
