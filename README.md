@@ -7,12 +7,12 @@
 
 | Name | Rolle |
 |------|-------|
-| *[Name 1]* | *[Rolle eintragen]* |
-| *[Name 2]* | *[Rolle eintragen]* |
+| Helin Koyuncu | Agentaufbau und Präsentation |
+| Aurelius Messmer | Definition und Dokumentation |
 
 ## Chatbot
 
-🔗 **Laufende Instanz:** *[Voiceflow Widget-Link hier einfügen]*
+🔗 **Laufende Instanz:** (https://creator.voiceflow.com/project/69e64d15fc8dd0daf4d19d14/agent)
 
 ## Projektübersicht
 
@@ -20,7 +20,7 @@
 
 Der Chatbot unterscheidet zwischen zwei Zugangsstufen:
 - **Extern (ohne Code):** Allgemeine Studieninfos, Zulassung & Bewerbung, Karriere & Perspektiven, Studienalltag
-- **Intern (mit Zugangscode):** Modul-Informationen und Fristen & Termine — basierend auf echten Unterlagen des 1. Studienjahres
+- **Intern (mit Zugangscode - nur von der Studiengangleitung Zugriff):** Modul-Informationen und Fristen & Termine — basierend auf echten Unterlagen des 1. Studienjahres
 
 ### Problem
 
@@ -57,7 +57,7 @@ Ein 24/7 verfügbarer Studienberater-Chatbot mit zwei Zugangsstufen — offen f�
 
 - **Framework:** Voiceflow (Agentic Framework)
 - **LLM:** Claude 4.5 Haiku
-- **Knowledge Base:** 13 Quellen (FHNW-URLs + Modul-PDFs + Fristen-PDF)
+- **Knowledge Base:** über 13+ Quellen (FHNW-URLs + Modul-PDFs + Fristen-PDF)
 - **Deployment:** Voiceflow Web-Chat Widget
 - **Versionierung:** GitHub
 
@@ -85,7 +85,7 @@ Studi-Buddy-FHNW-ProjektDS/
 
 ## Ausblick (Future Work)
 
-- Skalierung auf alle FHNW-Studiengänge (z.B. neues Tech-Gebäude am Dreispitz)
+- Skalierung auf alle FHNW-Studiengänge (z.B. neues Tech-Gebäude am Dreispitz) oder auf BAI Fokus
 - Authentifizierung über Inside-Portal für personalisierten Zugang
 - Mehrsprachigkeit (Englisch, Französisch)
 - Integration mit Moodle-API für Echtzeit-Fristen
