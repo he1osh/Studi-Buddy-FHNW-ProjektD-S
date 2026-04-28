@@ -49,8 +49,8 @@ Der Studi Buddy FHNW bedient zwei Zielgruppen: externe Studieninteressierte und 
 |--------|-------------|
 | **Zielgruppe** | Intern (aktuelle Studierende) |
 | **Zugang** | Nur nach Eingabe des Zugangscodes |
-| **Datenquelle** | Modul_Informationen.pdf + Vorlesungsunterlagen in der Knowledge Base |
-| **Ziel** | Detailinformationen zu einzelnen Modulen des 1. Studienjahres |
+| **Datenquelle** | Modulübersicht + Vorlesungsunterlagen in der Knowledge Base |
+| **Ziel** | Detailinformationen zu einzelnen Modulen des 6. Semesters |
 
 **Typische Fragen:** "Was lerne ich in Dialogsysteme?", "Wer unterrichtet Statistik?", "Wie wird das Modul bewertet?"
 
@@ -59,7 +59,7 @@ Der Studi Buddy FHNW bedient zwei Zielgruppen: externe Studieninteressierte und 
 |--------|-------------|
 | **Zielgruppe** | Intern (aktuelle Studierende) |
 | **Zugang** | Nur nach Eingabe des Zugangscodes |
-| **Datenquelle** | Fristen_und_Termine.pdf in der Knowledge Base |
+| **Datenquelle** | Fristen und Termine für einzelne Module (Semesterprogramm) in der Knowledge Base |
 | **Ziel** | Schneller Zugriff auf Prüfungstermine und Abgabefristen |
 
 **Typische Fragen:** "Wann ist die Prüfungsperiode?", "Wann muss ich die Projektarbeit abgeben?"
