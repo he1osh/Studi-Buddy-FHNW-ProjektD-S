@@ -20,7 +20,7 @@
 
 Der Chatbot unterscheidet zwischen zwei Zugangsstufen:
 - **Extern (ohne Code):** Allgemeine Studieninfos, Zulassung & Bewerbung, Karriere & Perspektiven, Studienalltag
-- **Intern (mit Zugangscode - nur von der Studiengangleitung Zugriff):** Modul-Informationen und Fristen & Termine — basierend auf echten Unterlagen des 1. Studienjahres
+- **Intern (mit Zugangscode - nur von der Studiengangleitung Zugriff):** Modul-Informationen und Fristen & Termine — basierend auf echten Unterlagen des 6. Semester. Der restliche Aufbaue basiert auf den Modulaufbau in der gesamten Studienzeit.
 
 ### Problem
 
