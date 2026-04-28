@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Studi Buddy Logo.png" width="200">
+  <img src="StudiBuddy Logo.png" width="200">
 </p>
 
 # 🎓 Studi Buddy FHNW
