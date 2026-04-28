@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="StudiBuddy Logo.png" width="200">
 </p>
 
